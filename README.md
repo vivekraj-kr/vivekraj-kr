@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://cdn.dribbble.com/users/493224/screenshots/10757063/media/b6623c7d5aa868578aa0face64e2ec01.gif" />
+
 <!--
 **vivekraj-kr/vivekraj-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://giphy.com/embed/13Xy3MWV2Psz4I)
