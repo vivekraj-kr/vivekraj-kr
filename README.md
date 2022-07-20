@@ -2,6 +2,8 @@
 
 <!--
 **vivekraj-kr/vivekraj-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://giphy.com/embed/13Xy3MWV2Psz4I)
+
 
 Here are some ideas to get you started:
 
